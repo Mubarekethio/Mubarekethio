@@ -1,8 +1,4 @@
 ## Mubarek kebede (@Mubarekethio)
-- over 7 years of experience in Ethiotelecom as a network technician 
-- 👀 I’m interested in python programming, Machine Learning 
-- 🌱 I’m currently learning MSC in Computer Science at Samara University 
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email: mubare.k1449@gmail.com
 
 <!---
